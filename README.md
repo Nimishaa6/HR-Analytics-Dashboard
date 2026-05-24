@@ -7,7 +7,7 @@ The dashboard helps organizations make data-driven HR decisions by visualizing k
 
 ## Dataset 
 - <a href= "https://github.com/Nimishaa6/HR-Analytics-Dashboard/blob/main/HR_Analytics-4.csv"> Players data updated</a>
-- < a href= "https://github.com/Nimishaa6/HR-Analytics-Dashboard/blob/main/HR.png"> Dashboard </a>
+- <a href= "https://github.com/Nimishaa6/HR-Analytics-Dashboard/blob/main/HR.png"> Dashboard </a>
 
 ## 🚀 Features
 
